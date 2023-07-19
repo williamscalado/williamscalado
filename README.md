@@ -1,5 +1,5 @@
 
-- 👋 Olá, sou desenvolvedor web, com mais de 8 anos de experiência, tanto no back-end quanto front-end. Possuo conhecimento em PHP, Node, React, TypeScript, SQL, etc. Atualmente tenho interesse em trabalhar como front-end em projetos com React e poder contribuir com meu conhecimento em código limpo, arquitetura e design de sistemas.
+- 👋 Olá, sou desenvolvedor web, com mais de 4 anos de experiência, tanto no back-end quanto front-end. Possuo conhecimento em PHP, Node, React, TypeScript, SQL, etc. Atualmente tenho interesse em trabalhar como front-end em projetos com React e poder contribuir com meu conhecimento em código limpo, arquitetura e design de sistemas.
 
 
 
